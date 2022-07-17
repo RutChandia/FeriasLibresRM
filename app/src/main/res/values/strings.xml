@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ferias Libres RM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_de_la_feria">Nombre de la feria</string>
+    <string name="comuna">Comuna</string>
+    <string name="direccion">Dirección</string>
+    <string name="dias">Dias</string>
+</resources>
